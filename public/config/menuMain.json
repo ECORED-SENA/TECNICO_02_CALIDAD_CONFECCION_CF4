@@ -1,0 +1,118 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"  
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "Patronaje_basico",
+    "title": "1. Patronaje básico",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Patronaje_basico",
+        "title": "1.1. Terminología técnica y convenciones del área de patronaje industrial",
+        "anchor": "11"
+      },   
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "Patronaje_basico",
+        "title": "1.2. Especificaciones técnicas de patronaje, medidas y cuadro de tallas, proporciones del cuerpo humano",
+        "anchor": "12"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Patronaje_basico",
+        "title": "1.3. Procedimiento de patronaje",
+        "anchor": "13"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Patronaje_basico",
+        "title": "1.4. Patronaje básico en cada línea de producción",
+        "anchor": "14"
+      }   
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Procedimiento_de_trazo_y_corte",
+    "title": "2. Procedimiento de trazo y corte",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimiento_de_trazo_y_corte",
+        "title": "2.1. Tipos de corte",
+        "anchor": "21"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimiento_de_trazo_y_corte",
+        "title": "2.2. Operaciones principales de corte",
+        "anchor": "22"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimiento_de_trazo_y_corte",
+        "title": "2.3. Operaciones auxiliares de corte",
+        "anchor": "23"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimiento_de_trazo_y_corte",
+        "title": "2.4. Tecnología en corte",
+        "anchor": "24"
+      }     
+    ]   
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Procesos_de_confeccion_industrial_por_la_linea_de_produccion",
+    "title": "3. Procesos de confección industrial por la línea de producción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procesos_de_confeccion_industrial_por_la_linea_de_produccion",
+        "title": "3.1. Confección de productos para línea de ropa exterior",
+        "anchor": "31"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procesos_de_confeccion_industrial_por_la_linea_de_produccion",
+        "title": "3.2. Confección de productos para línea de ropa deportiva",
+        "anchor": "32"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procesos_de_confeccion_industrial_por_la_linea_de_produccion",
+        "title": "3.3. Confección de productos para línea de ropa interior",
+        "anchor": "33"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procesos_de_confeccion_industrial_por_la_linea_de_produccion",
+        "title": "3.4. Confección de productos para línea con especialidad en ropa jean",
+        "anchor": "34"
+      }      
+    ]   
+  }
+]
