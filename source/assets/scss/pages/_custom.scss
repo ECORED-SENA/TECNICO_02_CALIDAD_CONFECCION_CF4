@@ -337,71 +337,65 @@ ol.lista > li.mas:before {
     }
     }
     }
-    .img-a {
-        display: block;
-        margin: auto;
-      }
-    .caja-lila{
-        background: rgb(210,104,204);
-        background: linear-gradient(0deg, rgba(210,104,204,1) 18%, rgba(233,180,229,1) 47%, rgba(240,209,235,1) 66%, rgba(246,245,242,1) 87%);
-        border-radius: 0px 0px 15px 15px;
-        position: relative;
-        margin-top: -50px !important;
-        p{
-            padding: 1rem;
-        }
+.img-a {
+    display: block;
+    margin: auto;
     }
-    .caja-lila2{
-        background: rgb(210,104,204);
-        background: linear-gradient(0deg, rgba(210,104,204,1) 18%, rgba(233,180,229,1) 47%, rgba(240,209,235,1) 66%, rgba(246,245,242,1) 87%);
-        border-radius: 0px 0px 15px 15px;
-        position: relative;
-        margin-top: -50px !important;
-        margin-left: 40px;
-        margin-right: 40px;
-        p{
-            padding: 1rem;
-        }
+.caja-lila{
+    background: linear-gradient(0deg, rgba(210,104,204,1) 18%, rgba(233,180,229,1) 47%, rgba(240,209,235,1) 66%, rgba(246,245,242,1) 87%);
+    border-radius: 0px 0px 15px 15px;
+    position: relative;
+    padding: 20px;
+}
+.caja-lila2{
+    background: linear-gradient(0deg, rgba(210,104,204,1) 18%, rgba(233,180,229,1) 47%, rgba(240,209,235,1) 66%, rgba(246,245,242,1) 87%);
+    border-radius: 0px 0px 15px 15px;
+    position: relative;
+    margin-top: -50px !important;
+    margin-left: 40px;
+    margin-right: 40px;
+    p{
+        padding: 1rem;
     }
-    .caja-azul{
-        background: rgb(149,222,224);
-        background: linear-gradient(0deg, rgba(149,222,224,1) 4%, rgba(184,239,241,1) 40%, rgba(250,250,250,1) 93%);
-        border-radius: 15px 15px 15px 15px;
-        position: relative;
-        margin-top: -120px !important;
-        margin-left: 40px;
-        margin-right: 40px;
-        p{
-            padding: 8px;
-        }
+}
+.caja-azul{
+    background: linear-gradient(0deg, rgba(149,222,224,1) 4%, rgba(184,239,241,1) 40%, rgba(250,250,250,1) 93%);
+    border-radius: 15px 15px 15px 15px;
+    position: relative;
+    margin-top: -120px !important;
+    margin-left: 40px;
+    margin-right: 40px;
+    p{
+        padding: 8px;
     }
-    .caja-borde{
-        border-radius: 15px;
-        border: 2px solid #D268CC;
-        margin: 1rem;
-    }
-    .h2-azul{
-        color: #05468E;
-    }
-    .color-lila{
-        background: rgb(235,160,230);
-        background: radial-gradient(circle, rgba(235,160,230,1) 0%, rgba(233,180,229,1) 51%, rgba(240,209,235,1) 79%, rgba(246,245,242,1) 91%);
-    }
-    .color-azul{
-        background: rgb(88,165,248);
-        background: radial-gradient(circle, rgba(88,165,248,1) 0%, rgba(185,216,249,1) 51%, rgba(203,220,237,1) 79%, rgba(246,245,242,1) 91%);
-    }
-    .color-verde{
-        background: rgb(138,204,89);
-        background: radial-gradient(circle, rgba(138,204,89,1) 0%, rgba(194,246,155,1) 51%, rgba(220,244,203,1) 79%, rgba(246,245,242,1) 91%);
-    }
-    .img-top{
-        margin-top: -250px;
-        position: relative;
-    }
-    .img-top2{
-        display: block;
-        margin: auto;
-        margin-top: -50px;
-        position: relative;
-    }
+}
+.caja-borde{
+    border-radius: 15px;
+    border: 2px solid #D268CC;
+    margin: 1rem;
+}
+.h2-azul{
+    color: #05468E;
+}
+.color-lila{
+    background: rgb(235,160,230);
+    background: radial-gradient(circle, rgba(235,160,230,1) 0%, rgba(233,180,229,1) 51%, rgba(240,209,235,1) 79%, rgba(246,245,242,1) 91%);
+}
+.color-azul{
+    background: rgb(88,165,248);
+    background: radial-gradient(circle, rgba(88,165,248,1) 0%, rgba(185,216,249,1) 51%, rgba(203,220,237,1) 79%, rgba(246,245,242,1) 91%);
+}
+.color-verde{
+    background: rgb(138,204,89);
+    background: radial-gradient(circle, rgba(138,204,89,1) 0%, rgba(194,246,155,1) 51%, rgba(220,244,203,1) 79%, rgba(246,245,242,1) 91%);
+}
+.img-top{
+    margin-top: -250px;
+    position: relative;
+}
+.img-top2{
+    display: block;
+    margin: auto;
+    margin-top: -50px;
+    position: relative;
+}
